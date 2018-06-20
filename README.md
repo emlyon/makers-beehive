@@ -67,11 +67,11 @@ plate 10 : 00:16:30
 
 ## Step 3 - Assemble electronics parts
 
-**electronics case**:  
-WIP
+**assemble electronics case**:  
+![](img/elec/elec.jpg)
 
-**Smart Citizen Kit**:  
-WIP
+**push code into Pi + SCK**:  
+You can find on our [GitHub documentation](https://github.com/emlyon/MakersBeehives-PI) all the code for electronics.
 
-**Raspberry Pi + cam**:  
-WIP
+## Step 4 - Dashboard
+See on [GitHub](https://github.com/emlyon/Makers-Beehives-Server-heroku) how we made our dashboard.
