@@ -71,7 +71,7 @@ plate 10 : 00:16:30
 ![](img/elec/elec.jpg)
 
 **push code into Pi + SCK**:  
-You can find on our [GitHub documentation](https://github.com/emlyon/MakersBeehives-PI) all the code for electronics.
+You can find on [emlyon/makers-beehives-hardware](https://github.com/emlyon/makers-beehives-hardware) all the code for electronics.
 
 ## Step 4 - Dashboard
-See on [GitHub](https://github.com/emlyon/Makers-Beehives-Server-heroku) how we made our dashboard.
+See on [emlyon/makers-beehives-website](https://github.com/emlyon/makers-beehives-website) how we made our dashboard.
