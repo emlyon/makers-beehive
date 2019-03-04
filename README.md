@@ -7,11 +7,13 @@
 
 - 10 plywood boards (1000x600x10mm)
 - 1 PMMA sheet
-- 1 Smart Citizen Kit
-- 1 [20W solar panel](https://www.ebay.fr/itm/ECO-WORTHY-20W-12V-Module-de-Panneau-Solaire-Polycristallin-pour-Batter-25W/113069851898?hash=item1a537d04fa:g:PHEAAOSwbbdbJXt9)
-- 1 Raspberry Pi + PiCam
-- 1 30000mAh battery pack
+- 1 [Smart Citizen Kit](https://www.seeedstudio.com/smartcitizen)
+- 1 [20W solar panel](https://www.ebay.fr/itm/ECO-WORTHY-20W-12V-Module-de-Panneau-Solaire-Polycristallin-pour-Batter-25W/113069851898?hash=item1a537d04fa:g:PHEAAOSwbbdbJXt9) or [this one](https://www.eco-worthy.com/catalog/worthy-polycrystalline-solar-panel-module-charging-boat-p-455.html)
+- 1 [Raspberry Pi 3](https://www.adafruit.com/product/3055) + [PiCam](https://www.adafruit.com/product/3099)
+- 1 [30000mAh battery pack](http://www.tecknet.co.uk/bluetek.html)
 - 1 40Ohms 10W resistor
+- 4 [load sensors](https://www.ebay.fr/itm/4pcs-DIY-50KG-Body-Load-Cell-Weight-Strain-Sensor-Resistance-With-HX711-AD-Modul-/273551564004?hash=item3fb0f19ce4)
+- 1 [12V/5V DC Converter](https://www.ebay.fr/itm/Adafruit-UBEC-DC-DC-Step-Down-Buck-Converter-5V-3A-output-ADA1385-/232460927653?hash=item361fc042a5)
 
 ## Machines
 
