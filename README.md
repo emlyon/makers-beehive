@@ -8,7 +8,7 @@
 - 10 plywood boards (1000x600x10mm)
 - 1 PMMA sheet
 - 1 [Smart Citizen Kit](https://www.seeedstudio.com/smartcitizen)
-- 1 [20W solar panel](https://www.eco-worthy.com/catalog/worthy-polycrystalline-solar-panel-module-charging-boat-p-455.html)
+- 1 [25W 12V solar panel](https://www.eco-worthy.com/catalog/worthy-polycrystalline-solar-panel-module-charging-boat-p-455.html)
 - 1 [Raspberry Pi 3](https://www.adafruit.com/product/3055) + [PiCam](https://www.adafruit.com/product/3099)
 - 1 [30000mAh battery pack](http://www.tecknet.co.uk/bluetek.html)
 - 1 40 Ohms 10W resistor
